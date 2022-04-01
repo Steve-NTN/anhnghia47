@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anhnghia47
-- 👀 I’m interested in Web, Ai
-- 🌱 I’m currently learning Django and Reactjs
-- 💞️ I’m looking to collaborate on Django, Flask and Reactjs
+- 👀 I’m interested in Web, AI
+- 🌱 I’m currently working with Django, Reactjs, AI, Flask, JS, CSS, HTML,
+- 💞️ I’m looking to collaborate on Web, Ai projects.
 - 📫 How to reach me gmail: trongnghiafes@gmail.com
 
 <!---
